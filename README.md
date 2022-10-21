@@ -43,3 +43,5 @@
             bank.ambilUang();
         }
     }
+
+![WhatsApp Image 2022-10-21 at 15 29 35](https://user-images.githubusercontent.com/115134383/197165365-31e2875c-30f0-4a65-87db-f0fbbe6e6600.jpeg)
